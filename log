@@ -1,0 +1,49 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/BxQCclYJWDHf9U9UOwYrzMsmfjc\"",
+ "pageInfo": {
+  "totalResults": 3,
+  "resultsPerPage": 3
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/i0tP5HuhoqlzTmNrTVNXm1PLEls\"",
+   "id": "zOYW7FO9rzA",
+   "contentDetails": {
+    "duration": "PT1M21S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "projection": "rectangular"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/i0tP5HuhoqlzTmNrTVNXm1PLEls\"",
+   "id": "zOYW7FO9rzA",
+   "contentDetails": {
+    "duration": "PT1M21S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "projection": "rectangular"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/F02tBq4AXggdcCVqI2p_gj6JF_4\"",
+   "id": "-vH2eZAM30s",
+   "contentDetails": {
+    "duration": "PT12M57S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   }
+  }
+ ]
+}
